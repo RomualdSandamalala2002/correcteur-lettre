@@ -1,0 +1,9 @@
+Développez une application permettant de corriger les fautes d'orthographe, le traitement doit se passer dans un backend et la saisie se fera sur une interface client au choix (mobile, web, desktop).
+Les fonctionnalités à intégrer
+1. La possibilité de détecter et de surligner les erreurs orthographiques au fur et à mesure que l'utilisateur tape le texte.
+2. Des suggestions instantanées pour corriger les erreurs, avec la possibilité pour l'utilisateur d'accepter ou de rejeter chaque suggestion.
+3. Une fonctionnalité pour analyser l'ensemble d'un texte et souligner toutes les erreurs d'orthographe présentes.
+4. La possibilité pour l'utilisateur de voir une liste complète des erreurs et des suggestions, avec la capacité de les corriger en un clic.
+5. Des fonctionnalités d'API pour permettre aux développeurs d'intégrer le correcteur d'orthographe dans leurs propres applications.
+6. La prise en charge de plusieurs langues pour s'adapter aux besoins de différents utilisateurs. (anglais et français)
+7. La possibilité pour l'utilisateur de choisir la langue dans laquelle le texte doit être corrigé. (anglais et français)
