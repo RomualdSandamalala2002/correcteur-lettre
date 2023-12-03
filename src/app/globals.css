@@ -25,3 +25,8 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+.red-flag{
+  text-decoration: underline;
+  text-decoration-color: red;
+}

@@ -9,7 +9,8 @@ J'ai utilisé pour ce projet :
 
 ## Lancement de l'application
 
-Pour lancer l'application, dans la ligne de commande, lancer
+Pour lancer l'application, dans la ligne de commande, lancer : 
+
 ```bash
 npm run dev
 ```
